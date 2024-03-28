@@ -18,10 +18,8 @@
 Dean's Massage Information On behalf of faculty members staff of the science and Technology I would like to welcome you to the Collage of Science and Technology at The University of Cambodia. The Collage of Science and Technology(COST) was established at the same time as the The university of Cambodia in 2013.The collage have been developed and transforms with the rise of Science and Technology in the 21st century. We drive and inspire our students to value creativity and innovation in the Information Technology world. The Collage disciplines as scientific and ICT Professional. In order to meet increasing demand for graduates in computer science and information technology, we have ;developed robust and modern curricula; established sophisticated facilities; and hired high qual...
 </p>
 <h1 style="background-color:#696969; color:white; font-size:20px; font-family:Eras Demi ITC; text-align:center;"> Computer Labs</h1>
-<img src="![labs1](https://github.com/Liangsupersmos/cherkbal.github.io/assets/164173506/06934de4-7c02-496b-b342-8767f143edb5)" width="300" height="200">
+<img src="C:\Users\USER\OneDrive\Desktop\Project\labs2.jpg" width="300" height="200">
 <img src="C:\Users\USER\OneDrive\Desktop\Project\labs2.jpg" width="300" height="200">
 <img src="C:\Users\USER\OneDrive\Desktop\Project\labs3.jpg" width="300" height="200"><br>
 </body>
 </html>
-photo
-[labs1](https://github.com/Liangsupersmos/cherkbal.github.io/assets/164173506/06934de4-7c02-496b-b342-8767f143edb5)
