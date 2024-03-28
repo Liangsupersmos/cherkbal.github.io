@@ -23,3 +23,5 @@ Dean's Massage Information On behalf of faculty members staff of the science and
 <img src="C:\Users\USER\OneDrive\Desktop\Project\labs3.jpg" width="300" height="200"><br>
 </body>
 </html>
+photo
+[labs1](https://github.com/Liangsupersmos/cherkbal.github.io/assets/164173506/06934de4-7c02-496b-b342-8767f143edb5)
